@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+My first #chatbot on the Google Dialogflow.
+This link will take you to my demo, a bot that can take pizza orders: https://lnkd.in/dy529SG
 
-You can use the [editor on GitHub](https://github.com/DavidKohav/pizza-bot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My Learning objectives:
+** Dialogflow building blocks
+** Setting up a Dialogflow account
+** Creating intents
+** Importing and exporting an agent
+** Creating entities and parameters
+** Adding follow-up intents
+** Input and output context
+** Creating a fulfillment
+** Integrating a chatbot with your website
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Google #Dialogflow can help you build engaging text-based conversational interfaces, using an #AI-powered toolset that assists with designing, scaling, and improving your customer experience.
 
-### Markdown
+#machinelearning #deeplearning #datascience #chatbotdevelopment #chatbots
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DavidKohav/pizza-bot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Dialogflow מבוא על יחידות
+https://docs.google.com/document/d/1BE0Ewc9NDG3Cgsk2sX1rMjSqqJjJ6ObiybGPS3W-qz0/edit?usp=sharing
